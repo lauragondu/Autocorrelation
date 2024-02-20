@@ -1,6 +1,6 @@
 # Autocorrelation
 
-This repository contains two jupyter notebooks, a txt file to be used as a template to import the data in a suitable manner, and the resulting strain and ACF maps
+This repository contains two jupyter notebooks, an example of displacement input data extracted from Paraview, a txt file to be used as a template to import the data in a suitable manner, and the resulting strain and ACF maps
 
 The procedure to plot the autocorrelation maps would be:
 
