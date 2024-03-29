@@ -1,5 +1,11 @@
 # Autocorrelation
 
+___________________________________________
+
+##### New
+I have improved the previous jupyter notebooks so only one notebook is needed and we don't need to generate the displacement.csv file. This new notebook plots the ACF map through the cross-section, which shows more clearly the deformation bands
+
+________________________________________
 This repository contains two jupyter notebooks, an example of displacement input data extracted from Paraview, a txt file to be used as a template to import the data in a suitable manner, and the resulting strain and ACF maps
 
 The procedure to plot the autocorrelation maps would be:
